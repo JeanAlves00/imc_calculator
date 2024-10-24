@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from './calculator.module.css'; // Import do CSS modular
+import styles from './calculator.module.css';
 
 function App() {
   const [height, setHeight] = useState('');
